@@ -12,6 +12,7 @@
 		C137E9FE2333725400EFFC64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C137E9FC2333725400EFFC64 /* Main.storyboard */; };
 		C137EA002333725500EFFC64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C137E9FF2333725500EFFC64 /* Assets.xcassets */; };
 		C137EA032333725500EFFC64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C137EA012333725500EFFC64 /* LaunchScreen.storyboard */; };
+		C137EA0B2333738D00EFFC64 /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = C137EA0A2333738D00EFFC64 /* script.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C137E9FF2333725500EFFC64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C137EA022333725500EFFC64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C137EA042333725500EFFC64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C137EA0A2333738D00EFFC64 /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C137E9F82333725400EFFC64 /* AppDelegate.swift */,
 				C137E9FA2333725400EFFC64 /* ViewController.swift */,
+				C137EA0A2333738D00EFFC64 /* script.js */,
 				C137E9FC2333725400EFFC64 /* Main.storyboard */,
 				C137E9FF2333725500EFFC64 /* Assets.xcassets */,
 				C137EA012333725500EFFC64 /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C137EA032333725500EFFC64 /* LaunchScreen.storyboard in Resources */,
+				C137EA0B2333738D00EFFC64 /* script.js in Resources */,
 				C137EA002333725500EFFC64 /* Assets.xcassets in Resources */,
 				C137E9FE2333725400EFFC64 /* Main.storyboard in Resources */,
 			);
